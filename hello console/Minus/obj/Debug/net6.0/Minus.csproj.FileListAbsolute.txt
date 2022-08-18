@@ -1,0 +1,15 @@
+C:\Users\79296\Desktop\Обучение\С#\hello console\Minus\bin\Debug\net6.0\Minus.exe
+C:\Users\79296\Desktop\Обучение\С#\hello console\Minus\bin\Debug\net6.0\Minus.deps.json
+C:\Users\79296\Desktop\Обучение\С#\hello console\Minus\bin\Debug\net6.0\Minus.runtimeconfig.json
+C:\Users\79296\Desktop\Обучение\С#\hello console\Minus\bin\Debug\net6.0\Minus.dll
+C:\Users\79296\Desktop\Обучение\С#\hello console\Minus\bin\Debug\net6.0\Minus.pdb
+C:\Users\79296\Desktop\Обучение\С#\hello console\Minus\obj\Debug\net6.0\Minus.csproj.AssemblyReference.cache
+C:\Users\79296\Desktop\Обучение\С#\hello console\Minus\obj\Debug\net6.0\Minus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79296\Desktop\Обучение\С#\hello console\Minus\obj\Debug\net6.0\Minus.AssemblyInfoInputs.cache
+C:\Users\79296\Desktop\Обучение\С#\hello console\Minus\obj\Debug\net6.0\Minus.AssemblyInfo.cs
+C:\Users\79296\Desktop\Обучение\С#\hello console\Minus\obj\Debug\net6.0\Minus.csproj.CoreCompileInputs.cache
+C:\Users\79296\Desktop\Обучение\С#\hello console\Minus\obj\Debug\net6.0\Minus.dll
+C:\Users\79296\Desktop\Обучение\С#\hello console\Minus\obj\Debug\net6.0\refint\Minus.dll
+C:\Users\79296\Desktop\Обучение\С#\hello console\Minus\obj\Debug\net6.0\Minus.pdb
+C:\Users\79296\Desktop\Обучение\С#\hello console\Minus\obj\Debug\net6.0\Minus.genruntimeconfig.cache
+C:\Users\79296\Desktop\Обучение\С#\hello console\Minus\obj\Debug\net6.0\ref\Minus.dll
