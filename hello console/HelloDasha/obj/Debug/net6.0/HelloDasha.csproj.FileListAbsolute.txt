@@ -1,0 +1,15 @@
+C:\Users\79296\Desktop\Обучение\С#\hello console\HelloDasha\obj\Debug\net6.0\HelloDasha.csproj.AssemblyReference.cache
+C:\Users\79296\Desktop\Обучение\С#\hello console\HelloDasha\obj\Debug\net6.0\HelloDasha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79296\Desktop\Обучение\С#\hello console\HelloDasha\obj\Debug\net6.0\HelloDasha.AssemblyInfoInputs.cache
+C:\Users\79296\Desktop\Обучение\С#\hello console\HelloDasha\obj\Debug\net6.0\HelloDasha.AssemblyInfo.cs
+C:\Users\79296\Desktop\Обучение\С#\hello console\HelloDasha\obj\Debug\net6.0\HelloDasha.csproj.CoreCompileInputs.cache
+C:\Users\79296\Desktop\Обучение\С#\hello console\HelloDasha\bin\Debug\net6.0\HelloDasha.exe
+C:\Users\79296\Desktop\Обучение\С#\hello console\HelloDasha\bin\Debug\net6.0\HelloDasha.deps.json
+C:\Users\79296\Desktop\Обучение\С#\hello console\HelloDasha\bin\Debug\net6.0\HelloDasha.runtimeconfig.json
+C:\Users\79296\Desktop\Обучение\С#\hello console\HelloDasha\bin\Debug\net6.0\HelloDasha.dll
+C:\Users\79296\Desktop\Обучение\С#\hello console\HelloDasha\bin\Debug\net6.0\HelloDasha.pdb
+C:\Users\79296\Desktop\Обучение\С#\hello console\HelloDasha\obj\Debug\net6.0\HelloDasha.dll
+C:\Users\79296\Desktop\Обучение\С#\hello console\HelloDasha\obj\Debug\net6.0\refint\HelloDasha.dll
+C:\Users\79296\Desktop\Обучение\С#\hello console\HelloDasha\obj\Debug\net6.0\HelloDasha.pdb
+C:\Users\79296\Desktop\Обучение\С#\hello console\HelloDasha\obj\Debug\net6.0\HelloDasha.genruntimeconfig.cache
+C:\Users\79296\Desktop\Обучение\С#\hello console\HelloDasha\obj\Debug\net6.0\ref\HelloDasha.dll
